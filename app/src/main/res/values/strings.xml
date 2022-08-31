@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TaskListFinal</string>
+    <string name="new_task">New Task</string>
+    <string name="addtaskbutton">addtaskbutton</string>
+    <string name="task_list">Task List</string>
+    <string name="enter_task">Enter Task</string>
+    <string name="dismiss">dismiss</string>
+    <string name="add">add</string>
+</resources>
